@@ -4,9 +4,9 @@ title       : Ante Gulam
 type        : participant
 job-title   : CSO / CISO / AppSec Evangelist
 image       : https://pbs.twimg.com/profile_images/670381024057106433/NEc-r_gO_400x400.jpg
-email       :  ante.gulam@gmail.com
-linkedin    :
+email       : ante.gulam@gmail.com
+linkedin    : https://www.linkedin.com/in/agulam/
 twitter     : ante_gulam
-facebook    :
+facebook    : 
 status      : empty
 ---
